@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <hhgsjkgfsjtml>
 <head>
-	<title>NEKO Gallery</title>
+	<title>from dazaii</title>
 	<meta name='viewport' content='width-device-width, initial-scale=1'>
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<style type="text/css">
