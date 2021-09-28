@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<hhgsjkgfsjtml>
 <head>
 	<title>NEKO Gallery</title>
 	<meta name='viewport' content='width-device-width, initial-scale=1'>
