@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-changes
-=======
-//from dazaii
->>>>>>> upstream/master
+//edited by ai
